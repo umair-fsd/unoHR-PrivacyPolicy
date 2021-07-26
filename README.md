@@ -1,80 +1,66 @@
-# unoHR-PrivacyPolicy
-Privacy Policy for unoHR
-At unoHR, accessible from https://promising-saga-232017.firebaseapp.com/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by unoHR and how we use it.
+Privacy Policy
 
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
-This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in unoHR. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the Privacy Policy Generator.
+Your privacy is important to us
+It is UnoHR's policy to respect your privacy regarding any information we may collect while operating our website. This Privacy Policy applies to promising-saga-232017.firebaseapp.com/ (hereinafter, "us", "we", or "promising-saga-232017.firebaseapp.com/"). We respect your privacy and are committed to protecting personally identifiable information you may provide us through the Website. We have adopted this privacy policy ("Privacy Policy") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through the Website and does not apply to our collection of information from other sources.
 
-Consent
-By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+This Privacy Policy, together with the Terms of service posted on our Website, set forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms of service.
 
-Information we collect
-The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
+Contents
+Click below to jump to any section of this privacy policy
 
-If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
+Website Visitors
+Personally-Identifying Information
+Security
+Protection of Certain Personally-Identifying Information
+Cookies
+E-commerce
+Privacy Policy Changes
+Contact Information & Credit
+1. Website Visitors
+Like most website operators, UnoHR collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. UnoHR's purpose in collecting non-personally identifying information is to better understand how UnoHR's visitors use its website. From time to time, UnoHR may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.
+UnoHR also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on https://promising-saga-232017.firebaseapp.com/ blog posts. UnoHR only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
 
-How we use your information
-We use the information we collect in various ways, including to:
+Back to table of contents
 
-Provide, operate, and maintain our website
-Improve, personalize, and expand our website
-Understand and analyze how you use our website
-Develop new products, services, features, and functionality
-Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes
-Send you emails
-Find and prevent fraud
-Log Files
-unoHR follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
+2. Personally-Identifying Information
+Certain visitors to UnoHR's websites choose to interact with UnoHR in ways that require UnoHR to gather personally-identifying information. The amount and type of information that UnoHR gathers depends on the nature of the interaction. For example, we ask visitors who leave a comment at https://promising-saga-232017.firebaseapp.com/ to provide a username and email address.
 
-Cookies and Web Beacons
-Like any other website, unoHR uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
+Back to table of contents
 
-For more general information on cookies, please read "What Are Cookies".
+3. Security
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-Advertising Partners Privacy Policies
-You may consult this list to find the Privacy Policy for each of the advertising partners of unoHR.
+Back to table of contents
 
-Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on unoHR, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
+4. Protection of Certain Personally-Identifying Information
+UnoHR discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on UnoHR's behalf or to provide services available at UnoHR's website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using UnoHR's website, you consent to the transfer of such information to them. UnoHR will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, UnoHR discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when UnoHR believes in good faith that disclosure is reasonably necessary to protect the property or rights of UnoHR, third parties or the public at large.
 
-Note that unoHR has no access to or control over these cookies that are used by third-party advertisers.
+If you are a registered user of https://promising-saga-232017.firebaseapp.com/ and have supplied your email address, UnoHR may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with UnoHR and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. UnoHR takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-Third Party Privacy Policies
-unoHR's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
+Back to table of contents
 
-You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
+5. Cookies
+To enrich and perfect your online experience, UnoHR uses "Cookies", similar technologies and services provided by others to display personalized content, appropriate advertising and store your preferences on your computer.
 
-CCPA Privacy Rights (Do Not Sell My Personal Information)
-Under the CCPA, among other rights, California consumers have the right to:
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. UnoHR uses cookies to help UnoHR identify and track visitors, their usage of https://promising-saga-232017.firebaseapp.com/, and their website access preferences. UnoHR visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using UnoHR's websites, with the drawback that certain features of UnoHR's websites may not function properly without the aid of cookies.
 
-Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.
+By continuing to navigate our website without changing your cookie settings, you hereby acknowledge and agree to UnoHR's use of cookies.
 
-Request that a business delete any personal data about the consumer that a business has collected.
+Back to table of contents
 
-Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
+6. E-commerce
+Those who engage in transactions with UnoHR – by purchasing UnoHR's services or products, are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, UnoHR collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with UnoHR. UnoHR does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+Back to table of contents
 
-GDPR Data Protection Rights
-We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
+7. Privacy Policy Changes
+Although most changes are likely to be minor, UnoHR may change its Privacy Policy from time to time, and in UnoHR's sole discretion. UnoHR encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.
+Back to table of contents
 
-The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.
+8. Contact Information & Credit
+This privacy policy was created at privacyterms.io privacy policy generator. If you have any questions about our Privacy Policy, please contact us via email or phone.
 
-The right to erasure – You have the right to request that we erase your personal data, under certain conditions.
-
-The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.
-
-The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.
-
-The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
-
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
-
-Children's Information
-Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
-
-unoHR does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+Back to table of contents
